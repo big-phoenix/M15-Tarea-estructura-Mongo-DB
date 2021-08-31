@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "60535ca70f852b019081f96b"
+  },
+  "titulo": "motos nuevas",
+  "descripcion": "motos nuevas en carretera",
+  "tamaño": "15Mb",
+  "nombre_archivo": "motos_nuevas.mp4",
+  "tiempo_video": 15.52,
+  "thumbnail": "fhdfhjdk.jpg",
+  "reproduciones": 0,
+  "estado": "publico",
+  "fecha": "21-05-2020",
+  "usuario_id": "605354050f852b019081f969",
+  "cometarios_id": "",
+  "etiquetas": [
+    "motos",
+    "rutas"
+  ]
+},{
+  "_id": {
+    "$oid": "60535ca70f852b019081f96c"
+  },
+  "titulo": "coches de carreras",
+  "descripcion": "coches de pistas",
+  "tamaño": "22Mb",
+  "nombre_archivo": "coches_carreras.mp4",
+  "tiempo_video": 18.23,
+  "thumbnail": "fhdfhjdk.jpg",
+  "reproduciones": 0,
+  "estado": "publico",
+  "fecha": "14-09-2020",
+  "usuario_id": "605354050f852b019081f96a",
+  "comentarios_id": "",
+  "etiquetas": [
+    "coches",
+    "carreras"
+  ]
+}]

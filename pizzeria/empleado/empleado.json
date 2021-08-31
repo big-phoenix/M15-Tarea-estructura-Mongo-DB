@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6053478d0f852b019081f965"
+  },
+  "nombre": "Enrique",
+  "apellido": "Beltran",
+  "NIF": "5623417G",
+  "tel": 919843265,
+  "puesto": "cocinero",
+  "tienda_id": "6053429e0f852b019081f95e"
+},{
+  "_id": {
+    "$oid": "6053478d0f852b019081f964"
+  },
+  "nombre": "Federico",
+  "apellido": "Cisneros",
+  "NIF": "7812546M",
+  "tel": 937894561,
+  "puesto": "repartidor",
+  "tienda_id": "6053429e0f852b019081f95d"
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "60533eaf0f852b019081f95c"
+  },
+  "nombre": "Maria",
+  "apellido": "Rodriguez",
+  "direccion": "calle montes,65",
+  "cp": "21040",
+  "tel": "914002478"
+},{
+  "_id": {
+    "$oid": "60533eaf0f852b019081f95b"
+  },
+  "nombre": "Juan",
+  "apellido": "Martinez",
+  "direccion": "calle camelia,16",
+  "cp": "08024",
+  "tel": "935647891"
+}]

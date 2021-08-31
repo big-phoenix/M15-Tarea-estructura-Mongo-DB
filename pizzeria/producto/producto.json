@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "605345890f852b019081f961"
+  },
+  "nombre": "pizza hawai",
+  "descripcion": "pizza de jamon y queso",
+  "img": "hdghhjf.jpg",
+  "precio": 9.5,
+  "categoria_id": "hawai"
+},{
+  "_id": {
+    "$oid": "605345890f852b019081f95f"
+  },
+  "nombre": "hamburguesa",
+  "descripcion": "hamburguesa completa con queso",
+  "img": "hdghhjf.jpg",
+  "precio": 9.5
+},{
+  "_id": {
+    "$oid": "605345890f852b019081f960"
+  },
+  "nombre": "coca cola",
+  "descripcion": "bebida refrescante",
+  "img": "hdghhjf.jpg",
+  "precio": 1.2
+},{
+  "_id": {
+    "$oid": "605345890f852b019081f963"
+  },
+  "nombre": "pizza margarita",
+  "descripcion": "pizza queso y tomate",
+  "img": "hdghhjf.jpg",
+  "precio": 10.5,
+  "categoria_id": "margarita"
+},{
+  "_id": {
+    "$oid": "605345890f852b019081f962"
+  },
+  "nombre": "pizza barbacoa",
+  "descripcion": "pizza carne picada y salsa barbacoa",
+  "img": "hdghhjf.jpg",
+  "precio": 10.5,
+  "categoria_id": "barbacoa"
+}]

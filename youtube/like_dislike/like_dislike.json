@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "60535d960f852b019081f96d"
+  },
+  "clasificacion": "like",
+  "fecha": "12-02-2020",
+  "usuario_id": "605354050f852b019081f969",
+  "video_id": "60535ca70f852b019081f96c"
+},{
+  "_id": {
+    "$oid": "60535d960f852b019081f96e"
+  },
+  "clasificacion": "like",
+  "fecha": "20-04-2020",
+  "usuario_id": "605354050f852b019081f96a",
+  "video_id": "60535ca70f852b019081f96b"
+}]

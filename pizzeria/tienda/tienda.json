@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6053429e0f852b019081f95d"
+  },
+  "direccion": "calle ibiza, 52",
+  "cp": "08042",
+  "provincia": {
+    "nombre": "Barcelona"
+  },
+  "localidad": {
+    "nombre": "Barcelona"
+  }
+},{
+  "_id": {
+    "$oid": "6053429e0f852b019081f95e"
+  },
+  "direccion": "calle madroño, 23",
+  "cp": "21047",
+  "provincia": {
+    "nombre": "Madrid"
+  },
+  "localidad": {
+    "nombre": "Madrid"
+  }
+}]

@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "605354050f852b019081f969"
+  },
+  "nombre": "car house",
+  "email": "gdjsghjsdhj@gmail.com",
+  "password": 4545646546,
+  "f_nacimiento": "22-07-1988",
+  "sexo": "hombre",
+  "pais": "españa",
+  "cp": 8010,
+  "canal": [
+    {
+      "nombre": "car house",
+      "descripcio": "canal de coches de carreras",
+      "fecha": "16-03-2021",
+      "subcriptores": [
+        "605354050f852b019081f96a"
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605354050f852b019081f96a"
+  },
+  "nombre": "Carmen Portillo",
+  "email": "gdjsghjsdhj@gmail.com",
+  "password": 4545646546,
+  "f_nacimiento": "12-04-1991",
+  "sexo": "mujer",
+  "pais": "españa",
+  "cp": 21063,
+  "playlist": {
+    "nombre": "motor",
+    "fecha": "06-03-2021",
+    "estado": "publico",
+    "videos": [
+      "60535ca70f852b019081f96b",
+      "60535ca70f852b019081f96c"
+    ]
+  },
+  "canal": {}
+}]

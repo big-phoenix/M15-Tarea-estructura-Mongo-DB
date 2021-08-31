@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6051f1200f852b019081f956"
+  },
+  "marca": "Polices",
+  "grad_iz": 0.5,
+  "grad_de": 0.5,
+  "montura": "metal",
+  "color_iz": "negro",
+  "color_de": "negro",
+  "precio": 95,
+  "cliente": {
+    "_id": "1",
+    "nombre": "Jorge Mesa",
+    "cp": 80110,
+    "tel": 935750983,
+    "email": "jdfjkhd@gmail.com",
+    "fecha": "23-02-2020",
+    "recomendacion": ""
+  },
+  "empleado": {
+    "_id": "1",
+    "nombre": "federico gracia"
+  },
+  "proveedor_id": "SUNGLASS"
+},{
+  "_id": {
+    "$oid": "6051f1690f852b019081f957"
+  },
+  "marca": "RayBan",
+  "grad_iz": 1,
+  "grad_de": 1.2,
+  "montura": "pasta",
+  "color_iz": "espejo",
+  "color_de": "espejo",
+  "precio": 95,
+  "cliente": {
+    "_id": "1",
+    "nombre": "Jorge Mesa",
+    "cp": 80110,
+    "tel": 935750983,
+    "email": "jdfjkhd@gmail.com",
+    "fecha": "23-02-2020",
+    "recomendacion": ""
+  },
+  "empleado": {
+    "_id": "2",
+    "nombre": "margarita flores"
+  },
+  "proveedor_id": "SUNGLASS"
+}]
