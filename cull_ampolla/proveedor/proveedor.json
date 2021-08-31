@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6051ebf60f852b019081f94b"
+  },
+  "nombre": "SUNGLASS",
+  "direccion": {
+    "calle": "florida",
+    "numero": 20,
+    "piso": 4,
+    "puerta": 2,
+    "ciudad": "barcelona",
+    "cp": 8010,
+    "pais": "España"
+  },
+  "telefono": 935640552,
+  "fax": 935640553,
+  "NIF": "53027195M"
+}]
